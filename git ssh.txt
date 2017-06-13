@@ -1,0 +1,3 @@
+git remote add origin ssh://git@ssh.github.com:443/Kibshindo/MTI.git
+
+
