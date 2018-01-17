@@ -4,9 +4,13 @@
 
 ### Planning MTI
 
-<a href="PMTI.htm">Consulter le planning </a>
+<a href="PMTI.htm">Consulter le zuruzuruplanning </a>
 
-<a href="zuruzuruball.html">Test HTML5 </a>
+<a href="zuruzuruball.html">Zuruzuruball </a>
+
+Gomi ni
+
+Poirkinu
 
 
-
+NOG
